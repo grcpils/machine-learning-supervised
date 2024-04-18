@@ -1,0 +1,6 @@
+*.csv
+.venv
+!Part2/dataset.csv
+venv/
+.DS_Store
+.idea
