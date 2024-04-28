@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-WEIGHTS = {'age': 1, 'height': 1, 'job': 2, 'city': 12, 'favorite music style': 5}
+WEIGHTS = {'age': 5, 'height': 1, 'job': 2, 'city': 12, 'favorite music style': 1}
 
 
 def custom_metric(row1, row2):
